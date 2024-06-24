@@ -1,0 +1,18 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Effect": "Allow",
+        "Action": [
+          "elasticloadbalancing:CreateListener",
+          "elasticloadbalancing:DeleteListener",
+          "elasticloadbalancing:DescribeListeners",
+          "elasticloadbalancing:ModifyListener"
+        ],
+        "Resource": [
+          "arn:aws:elasticloadbalancing:region:account-id:loadbalancer/app/t2s-alb/de0cf33548c7fba7"
+        ]
+      }
+    ]
+  }
+  
