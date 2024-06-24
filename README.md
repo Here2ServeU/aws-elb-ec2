@@ -19,3 +19,7 @@ cd aws-elb-ec2
 ## Step 3: Configure the Application Load Balancer with the Target Group
 
 ## Step 4: Validate/Test Your Load Balancer
+
+## Outro:
+* 🎉 Congrats! You have successfully deployed an Application Load Balancer to Distribute Traffic Across Two Instances on AWS. 
+* 💬 Leave any questions or comments below; I'll be happy to help!
